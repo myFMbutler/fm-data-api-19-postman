@@ -1,0 +1,16 @@
+{
+    "name": "myfmbutler/fm-data-api-19-postman",
+    "type": "library",
+    "description": "(Claris) FileMaker 19 API Postman Collection",
+    "Keywords": ["Lesterius", "FileMaker", "Claris", "API", "REST", "Database", "Postman"],
+    "license": "gpl-3.0",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "authors": [
+      {
+        "name": "Lesterius",
+        "email": "infoFR@lesterius.com",
+        "homepage": "https://www.lesterius.com"
+      }
+    ]
+}
